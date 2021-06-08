@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623174667 source:c:\study\project\river-view\river.c
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<unistd.h>
+	<math.h>
+
